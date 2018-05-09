@@ -7,6 +7,8 @@
 #include <time.h>
 
 
+//add thread from pd thread
+
 
 char* read_file(char* fname)
 {
